@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TSD18_UE4_TEST",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
